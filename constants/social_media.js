@@ -5,18 +5,18 @@ export const SOCIAL_MEDIA = [
 		id: "linkedin",
 		icon: <BsLinkedin />,
 		title: "Visit LinkedIn profile",
-		url: "https://www.linkedin.com/in/akleem-khan/"
+		url: "https://www.linkedin.com/in/arwinders/"
 	},
 	{
 		id: "github",
 		icon: <BsGithub />,
 		title: "Visit Github profile",
-		url: "https://github.com/the-akleem91"
+		url: "https://github.com/student-arwinder"
 	},
 	{
 		id: "mail",
 		icon: <BsFillEnvelopeOpenFill />,
 		title: "Send me an email",
-		url: "mailto://akleemkhan0208@gmail.com"
+		url: "mailto://arwindersingh609@gmail.com"
 	}
 ];

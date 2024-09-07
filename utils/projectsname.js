@@ -29,14 +29,14 @@ export const project = [
 	},
 	/*{
 		id: 6,
-		name: "NITJ official website",
+		name: "Myntra Clone websitr",
 		image: "/project/nitj.png",
 		description: "Developed and maintain the official website of NIT Jalandhar.",
 		tags: ["html", "tailwind", "javaScript", "yarn"],
 		demo: "https://www.nitj.ac.in/",
 		source_code: "https://github.com/wdmc-nitj/nitj-website-deploy"
 	},*/
-	{
+	/*{
 		id: 4,
 		name: "Movie Hub",
 		image: "/project/moviehub.png",
@@ -63,5 +63,5 @@ export const project = [
 		tags: ["react", "css", "javaScript", "leaflet"],
 		source_code: "https://github.com/the-akleem91/Mapty-Website-that-stores-your-Workout-on-Map",
 		demo: "https://github.com/student-arwinder"
-	}
+	}*/
 ];
