@@ -1,10 +1,10 @@
 export const project = [
-	/*{
+	/**{
 		id: 1,
 		name: "NIT-J Confrence",
 		image: "/project/conference.png",
 		description: "Developed a Conference webiste for NIT Jalandhar.",
-		tags: ["react", "css", "material-ui", "leaflet", "api"],
+		tags: ["react", "css", "java-script", "redux", "api"],
 		source_code: "https://github.com/the-akleem91/CopyPasta/tree/main/Pixel",
 		demo: "https://nitj-conference.netlify.app/"
 	},*/
@@ -18,7 +18,7 @@ export const project = [
 		tags: ["react", "redux", "tailwind", "material-ui", "api"],
 		source_code: "https://github.com/student-arwinder"
 	},
-	{
+	/*{
 		id: 3,
 		name: "Portfolio",
 		image: "/project/portfolio.png",
@@ -26,7 +26,7 @@ export const project = [
 		tags: ["next", "redux", "tailwind", "react-icon", "css-modules"],
 		source_code: "https://github.com/student-arwinder"
 		
-	},
+	},*/
 	/*{
 		id: 6,
 		name: "Myntra Clone websitr",
